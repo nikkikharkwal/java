@@ -7,8 +7,8 @@ public class DataType{
 		boolean var = true; //false
 		float price = 10.5f;
 		int number = 25;
-		//long
-		//double
+		//->long 
+		//->double
 		short n = 240;
 	}
 }
